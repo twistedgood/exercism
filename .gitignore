@@ -1,0 +1,9 @@
+.exercism
+.vscode
+package-lock.json
+node_modules
+kotlin/*/.gradle
+kotlin/*/gradle
+kotlin/*/build
+python/*/__pycache__
+

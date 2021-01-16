@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "perl5"
+		},
+		{
+			"path": "javascript"
+		},
+		{
+			"path": "python"
+		},
+		{
+			"path": "kotlin"
+		},
+		{
+			"path": "php"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"jshint.options": {"esversion": 8}
+	}
+}
